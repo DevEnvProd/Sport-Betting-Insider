@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Landing Page -->
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  
+  <!-- Sport Betting News Index Page -->
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Live Game Odds and Spreads -->
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/odds</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>hourly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  
+  <!-- Individual Articles mapping for Deep SEO -->
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/1</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/2</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/3</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/4</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/5</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/6</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/7</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/8</loc>
+    <lastmod>2026-05-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>

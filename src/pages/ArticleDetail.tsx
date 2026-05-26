@@ -2,10 +2,25 @@ import { useParams, Link } from 'react-router-dom';
 import { articles } from '@/data/mockData';
 import { ArrowLeft, Calendar, User, Tag, Share2, Facebook, Twitter, Linkedin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
+import { useSeo } from '@/lib/useSeo';
 
 export function ArticleDetail() {
   const { id } = useParams<{ id: string }>();
   const article = articles.find(a => a.id === id);
+
+  // Invoke SEO hook unconditionally for compliance with rules of hooks
+  useSeo({
+    title: article ? article.title : 'Article Not Found',
+    description: article ? article.excerpt : 'Explore elite sports reviews, matching guides, casino bonuses, and regional Winbox esports updates.',
+    keywords: article ? `winbox, winbox666, winbox sports, esports betting, sports betting guide, online casino, live dealer, ${article.category.toLowerCase()}` : 'winbox, sports betting, casino review',
+    image: article ? article.imageUrl : undefined,
+    type: 'article',
+    articleData: article ? {
+      publishedTime: article.date,
+      author: article.author,
+      category: article.category
+    } : undefined
+  });
 
   if (!article) {
     return (

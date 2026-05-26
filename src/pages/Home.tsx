@@ -8,8 +8,16 @@ import { articles } from '@/data/mockData';
 import { Button } from '@/components/ui/button';
 import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
+import { useSeo } from '@/lib/useSeo';
 
 export function Home() {
+  // Integrate standard homepage SEO meta details
+  useSeo({
+    title: 'Sport Betting Insider - Sports Betting Odds, News & Expert Analysis',
+    description: 'Get the latest real-time sports betting odds, casino matching bonuses, expert-backed strategy sheets, and in-depth reviews of mobile esport hubs like Winbox.',
+    keywords: 'sports betting news, live match odds, online casinos, winbox esports betting, sports betting guides, match bonus calculations'
+  });
+
   // Use all articles for the news grid
   const newsArticles = articles;
 

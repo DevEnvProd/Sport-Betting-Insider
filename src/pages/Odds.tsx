@@ -2,10 +2,17 @@ import { games } from '@/data/mockData';
 import { OddsCard } from '@/components/cards/OddsCard';
 import { useState } from 'react';
 import { Button } from '@/components/ui/button';
+import { useSeo } from '@/lib/useSeo';
 
 export function Odds() {
   const [selectedLeague, setSelectedLeague] = useState<string>('All');
   
+  useSeo({
+    title: `${selectedLeague === 'All' ? 'Live Sports Betting Odds & Betting Lines' : `Real-time ${selectedLeague} Game Odds & Lines`} | Sport Betting Insider`,
+    description: `Track real-time ${selectedLeague === 'All' ? 'multi-sport' : selectedLeague} betting odds, point spreads, head-to-head moneylines, and over/under numbers from top global books.`,
+    keywords: `${selectedLeague} odds, sports betting lines, game spreads, live moneylines`
+  });
+
   const leagues = ['All', 'NFL', 'NBA', 'MLB', 'NHL', 'NCAAF', 'UFC'];
   
   const filteredGames = selectedLeague === 'All' 
