@@ -96,46 +96,52 @@ export function ArticleDetail() {
                 </div>
               </div>
 
-              {/* Article Body - Mock Content */}
+              {/* Article Body - Dynamic content if available, else Mock Content */}
               <div className="prose prose-lg max-w-none text-slate-700 prose-headings:font-display prose-headings:font-bold prose-a:text-brand-blue hover:prose-a:text-brand-blue/80 prose-img:rounded-xl">
-                <p className="lead text-xl text-slate-600 font-medium mb-6">
-                  {article.excerpt}
-                </p>
+                {article.content ? (
+                  <div dangerouslySetInnerHTML={{ __html: article.content }} />
+                ) : (
+                  <>
+                    <p className="lead text-xl text-slate-600 font-medium mb-6">
+                      {article.excerpt}
+                    </p>
 
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                </p>
-                
-                <h3>Key Matchups to Watch</h3>
-                <p>
-                  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
-                
-                <div className="bg-blue-50 border-l-4 border-brand-blue p-6 my-8 rounded-r-lg">
-                  <h4 className="text-brand-blue font-bold text-lg mb-2 mt-0">Betting Tip</h4>
-                  <p className="mb-0 text-slate-700">
-                    Consider taking the over on total points if the weather conditions remain clear. Historical data suggests high-scoring games in these matchups.
-                  </p>
-                </div>
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                    </p>
+                    
+                    <h3>Key Matchups to Watch</h3>
+                    <p>
+                      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                    </p>
+                    
+                    <div className="bg-blue-50 border-l-4 border-brand-blue p-6 my-8 rounded-r-lg">
+                      <h4 className="text-brand-blue font-bold text-lg mb-2 mt-0">Betting Tip</h4>
+                      <p className="mb-0 text-slate-700">
+                        Consider taking the over on total points if the weather conditions remain clear. Historical data suggests high-scoring games in these matchups.
+                      </p>
+                    </div>
 
-                <p>
-                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-                </p>
+                    <p>
+                      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    </p>
 
-                <h3>Expert Analysis</h3>
-                <p>
-                  Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
-                </p>
-                
-                <ul>
-                  <li><strong>Moneyline Value:</strong> Look for value in the underdog early in the week.</li>
-                  <li><strong>Spread Movement:</strong> Watch for sharp money moving the line by more than 1.5 points.</li>
-                  <li><strong>Player Props:</strong> Focus on rushing yards for the visiting team's quarterback.</li>
-                </ul>
+                    <h3>Expert Analysis</h3>
+                    <p>
+                      Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+                    </p>
+                    
+                    <ul>
+                      <li><strong>Moneyline Value:</strong> Look for value in the underdog early in the week.</li>
+                      <li><strong>Spread Movement:</strong> Watch for sharp money moving the line by more than 1.5 points.</li>
+                      <li><strong>Player Props:</strong> Focus on rushing yards for the visiting team's quarterback.</li>
+                    </ul>
 
-                <p>
-                  At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
-                </p>
+                    <p>
+                      At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.
+                    </p>
+                  </>
+                )}
               </div>
               
               {/* Tags */}
