@@ -2,74 +2,236 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Main Landing Page -->
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   
   <!-- Sport Betting News Index Page -->
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Live Game Odds and Spreads -->
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/odds</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/odds</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>hourly</changefreq>
     <priority>0.8</priority>
   </url>
   
   <!-- Individual Articles mapping for Deep SEO -->
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/1</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/1</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/2</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/2</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/3</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/3</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/4</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/4</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/5</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/5</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/6</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/6</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/7</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/7</loc>
+    <lastmod>2026-06-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/news/8</loc>
-    <lastmod>2026-05-26</lastmod>
+    <loc>https://sportbetinsider.online/news/8</loc>
+    <lastmod>2026-06-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/9</loc>
+    <lastmod>2026-06-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/10</loc>
+    <lastmod>2026-06-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/11</loc>
+    <lastmod>2026-06-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/12</loc>
+    <lastmod>2026-06-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/13</loc>
+    <lastmod>2026-06-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/14</loc>
+    <lastmod>2026-06-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/15</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/16</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/17</loc>
+    <lastmod>2026-06-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/18</loc>
+    <lastmod>2026-06-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/19</loc>
+    <lastmod>2026-06-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/20</loc>
+    <lastmod>2026-06-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/21</loc>
+    <lastmod>2026-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/22</loc>
+    <lastmod>2026-06-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/23</loc>
+    <lastmod>2026-06-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/24</loc>
+    <lastmod>2026-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/25</loc>
+    <lastmod>2026-06-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/26</loc>
+    <lastmod>2026-06-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/27</loc>
+    <lastmod>2026-06-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/28</loc>
+    <lastmod>2026-06-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/29</loc>
+    <lastmod>2026-06-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/30</loc>
+    <lastmod>2026-06-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/31</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/32</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/33</loc>
+    <lastmod>2026-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/34</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sportbetinsider.online/news/35</loc>
+    <lastmod>2026-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>

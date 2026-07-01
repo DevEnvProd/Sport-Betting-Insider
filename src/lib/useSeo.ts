@@ -105,7 +105,7 @@ export function useSeo({
     script.id = 'seo-jsonld';
     script.type = 'application/ld+json';
 
-    const cleanBaseUrl = 'https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app';
+    const cleanBaseUrl = 'https://sportbetinsider.online';
 
     const schema: Record<string, any> = {
       '@context': 'https://schema.org',

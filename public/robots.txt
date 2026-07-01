@@ -17,4 +17,4 @@ User-agent: SemrushBot
 Allow: /
 
 # Link to the sitemap containing all home, list, and article-specific permalinks
-Sitemap: https://ais-pre-55nymlhq3aarh6sb7zxgie-552773280424.asia-southeast1.run.app/sitemap.xml
+Sitemap: https://sportbetinsider.online/sitemap.xml
